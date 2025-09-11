@@ -1,0 +1,39 @@
+section{
+    border: 2px solid black;
+}
+.home{
+    display: inline-block;
+    border: 2px solid black;
+    width: 80px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.about{
+    display: inline-block;
+    border: 2px solid black;
+    width:80px ;
+    text-align: center;
+    margin-top:20px;
+    margin-left:20px;
+}
+.Logo{
+    display: inline-block;
+    border: 2px solid black;
+    width: 80px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.Web site{
+    display: inline-block;
+    border: 10px solid black;
+    width: 100px;
+    text-align: center;
+    margin-top: 20px
+}
+p,div{
+    display: inline;
+}
+
+
