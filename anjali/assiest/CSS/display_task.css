@@ -23,17 +23,20 @@ section{
     width: 80px;
     text-align: center;
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 30px;
 }
-.Web site{
-    display: inline-block;
-    border: 10px solid black;
-    width: 100px;
+.Web_sit{
+    /* display: inline-block; */
+    border: 2px solid black;
+    /* width: 200px; */
     text-align: center;
-    margin-top: 20px
+    /* margin-top: 100px;
+    margin-left: 100px;   */
 }
-p,div{
-    display: inline;
+.anji{
+    display: inline-block;
+
 }
+
 
 
